@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ertiknlognsyngr00conggoog/ertiknlognsyngr00conggoog_0388.png"; bbox 0 0 1863 2385; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 923 1060 1042 1089">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 923 1060 1042 1089">
+     <span class='ocr_line' id='line_1_1' title="bbox 923 1060 1042 1089; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 923 1060 1042 1089; x_wconf 43' lang='lat' dir='ltr'>&gt;bs-*Anna</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 942 1081 1327 1164">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 942 1081 1375 1150">
+     <span class='ocr_line' id='line_1_2' title="bbox 942 1081 1327 1148; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 942 1081 1118 1148; x_wconf 32' lang='lat' dir='ltr'>Q⁴W45221w43</span> <span class='ocrx_word' id='word_1_3' title='bbox 1141 1082 1180 1118; x_wconf 59' lang='grc' dir='ltr'>..εἴη</span> <span class='ocrx_word' id='word_1_4' title='bbox 1183 1106 1191 1117; x_wconf 75' lang='grc'>.,</span> <span class='ocrx_word' id='word_1_5' title='bbox 1266 1103 1284 1109; x_wconf 80' lang='grc' dir='ltr'>,ι</span> <span class='ocrx_word' id='word_1_6' title='bbox 1297 1100 1327 1119; x_wconf 36' lang='lat' dir='ltr'>rust.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 997 1122 1259 1164; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 997 1122 1193 1164; x_wconf 33' lang='lat' dir='ltr'>{Rufini-1</span> <span class='ocrx_word' id='word_1_8' title='bbox 1194 1128 1259 1150; x_wconf 49' lang='lat'>133„</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1863 2385">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1863 2385">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1863 2385; textangle 90"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1863 2385; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

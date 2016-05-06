@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ertiknlognsyngr00conggoog/ertiknlognsyngr00conggoog_0646.png"; bbox 0 0 1863 2385; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 772 589 1158 644">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 772 589 1158 644">
+     <span class='ocr_line' id='line_1_1' title="bbox 772 589 1158 644; baseline 0.021 -7"><span class='ocrx_word' id='word_1_1' title='bbox 772 589 855 641; x_wconf 62' lang='grc' dir='ltr'>ΙΜ·</span> <span class='ocrx_word' id='word_1_2' title='bbox 880 591 1158 644; x_wconf 50' lang='grc' dir='ltr'>(ΜἸἨΗῙΞ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 387 796 500 875">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 387 796 761 875">
+     <span class='ocr_line' id='line_1_2' title="bbox 387 796 500 875; baseline 0.021 -5"><span class='ocrx_word' id='word_1_3' title='bbox 387 796 500 875; x_wconf 62' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
